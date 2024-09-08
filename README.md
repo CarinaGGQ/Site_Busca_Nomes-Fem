@@ -27,3 +27,6 @@ Este projeto é feito com as seguintes tecnologias:
 - **HTML:** Estrutura a base da nossa aplicação.
 - **CSS:** Adiciona um toque de estilo e beleza para nossa interface. (P.S.: A fonte é a charmosa Chakra Petch!)
 - **JavaScript:** Faz a mágica acontecer! Procura os nomes no banco de dados e exibe os resultados.
+
+## Essa página pode ser acessada por meio do link:
+https://site-busca-nomes-fem.vercel.app/
